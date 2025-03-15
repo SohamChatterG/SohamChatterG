@@ -4,7 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: soham](https://img.shields.io/badge/-soham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sohamchatterg/)(https://www.linkedin.com/sohamchatterg)/)
+[![Linkedin: soham](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchatterg/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohamchatterg/)
+
 
 
 
