@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamchatterg/)(https://www.linkedin.com/in/sohamchatterg)/)
+[![Linkedin: soham](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sohamchatterg/)(https://www.linkedin.com/sohamchatterg)/)
 
 
 
