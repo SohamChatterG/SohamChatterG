@@ -24,7 +24,7 @@ const soham = {
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node", "Express", "HonoJs"],
         },
        
         devOps: ["Docker🐳",],
@@ -40,7 +40,7 @@ const soham = {
         backEnd: ["microservices", "monolithic", "serverless"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Leading a way advanced backend technologies",
+    currentFocus: "Leading a way in advanced backend technologies",
     funFact: "I can debug faster at night!"
 };
 ```
