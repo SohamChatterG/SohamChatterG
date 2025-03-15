@@ -5,7 +5,6 @@
 </em></p>
 
 [![Linkedin: soham](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchatterg/)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohamchatterg/)
 
 
 
