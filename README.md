@@ -4,9 +4,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: soham](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchatterg/)  
-[![GitHub: soham](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/sohamchatterjee/)  
-🔗 [LeetCode Profile](https://leetcode.com/SohamChatterjee/)  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchatterg/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/sohamchatterG/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/SohamChatterjee/)  
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
