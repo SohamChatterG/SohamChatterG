@@ -4,7 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: soham](https://img.shields.io/badge/-soham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sohamchatterg/)(https://www.linkedin.com/sohamchatterg)/)
 
 
