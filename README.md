@@ -33,7 +33,7 @@ const soham = {
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "HonoJs"],
+            js: ["Node", "Express", "HonoJs","NestJs","Go"],
         },
        
         devOps: ["Docker🐳",],
@@ -41,7 +41,7 @@ const soham = {
             aws: ["IAM", "EC2", "S3", "Lambda"],
         },
         databases: ["PostgreSQL", "MongoDB", "SQLite", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions", "GraphQl],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions", "GraphQl","RPC"],
        
     },
     architecture: {
