@@ -33,7 +33,8 @@ const soham = {
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "HonoJs","NestJs","Go"],
+            js: ["Node", "Express", "HonoJs","NestJs"],
+            go : ["Golang","gin"]
         },
        
         devOps: ["Docker🐳",],
